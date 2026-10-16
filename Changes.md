@@ -9,3 +9,6 @@
 2. **Success State (`OrdersTable.jsx`)**: Built a structured table displaying Order ID, Customer Name, Date, Amount, Status, and Priority Flag alongside total order count and total revenue summary metrics.
 3. **Empty State (`EmptyState.jsx`)**: Context-aware UI that guides users when no orders exist or when active filters return zero results, complete with a "Clear Filters" button.
 4. **Error State (`ErrorState.jsx`)**: Displays clear, actionable error messages with a "Retry Request" button when server or network failures occur.
+
+## Deployment
+- Live App URL: https://vercel.com/saniya-e0c1/orderly-dashboard-ux-states
